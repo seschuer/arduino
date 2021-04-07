@@ -4,4 +4,4 @@ Das ist ein Projekt lul
 
 ## Installation
 
-to be done
+to be done ...
